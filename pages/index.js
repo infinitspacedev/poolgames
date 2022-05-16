@@ -57,7 +57,9 @@ export default function Home(){
 				</div>
 				<h2>Series</h2>
 				<div id='link'>
-				<a href='/simpson'>SIMPSONS... lista de episodios</a>
+				<a href='/simpson'>SIMPSONS... lista de episodios</a><br></br><br></br>
+				<a href='futurama'>FUTURAMA... lista de episodios</a><br></br><br></br>
+				<a href='/bojack'>BOJACK... lista de episodios</a>
 			
 				</div>
 			</section>
@@ -67,9 +69,9 @@ export default function Home(){
 					<span>Jogos</span>
 				</div>
 				<h2>Jogos</h2>
-				<div id='link'><a href='/corona'>Corona game</a><br></br>
+				<div id='link'><a href='/corona'>Corona game</a><br></br><br></br>
 				<a href="/avioes">avioes</a>
-				<br></br>
+				<br></br><br></br>
 				<a href="/chadrex">chadrex</a>
 				</div>
 			</section>
