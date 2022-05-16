@@ -57,7 +57,7 @@ export default function Home(){
 				</div>
 				<h2>Series</h2>
 				<div id='link'>
-				
+				<a href='/simpson'>SIMPSONS... lista de episodios</a>
 			
 				</div>
 			</section>
