@@ -58,7 +58,7 @@ export default function Home(){
 				<h2>Series</h2>
 				<div id='link'>
 				<a href='/simpson'>SIMPSONS... lista de episodios</a><br></br><br></br>
-				<a href='futurama'>FUTURAMA... lista de episodios</a><br></br><br></br>
+				<a href='/futurama'>FUTURAMA... lista de episodios</a><br></br><br></br>
 				<a href='/bojack'>BOJACK... lista de episodios</a>
 			
 				</div>
